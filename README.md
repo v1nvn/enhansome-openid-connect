@@ -36,21 +36,21 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-* [Authentik](https://github.com/goauthentik/authentik) ⭐ 20,401 | 🐛 1,006 | 🌐 Python | 📅 2026-03-07 - Open Source Identity Provider focused on flexibility and versatility.
+* [Authentik](https://github.com/goauthentik/authentik) ⭐ 20,410 | 🐛 1,022 | 🌐 Python | 📅 2026-03-09 - Open Source Identity Provider focused on flexibility and versatility.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 16,986 | 🐛 122 | 🌐 Go | 📅 2026-03-06 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 16,986 | 🐛 122 | 🌐 Go | 📅 2026-03-08 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 
-* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,178 | 🐛 954 | 🌐 Go | 📅 2026-03-07 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
+* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,187 | 🐛 954 | 🌐 Go | 📅 2026-03-09 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 
-* [Logto](https://github.com/logto-io/logto) ⭐ 11,647 | 🐛 204 | 🌐 TypeScript | 📅 2026-03-07 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
+* [Logto](https://github.com/logto-io/logto) ⭐ 11,653 | 🐛 203 | 🌐 TypeScript | 📅 2026-03-09 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 
-* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 6,926 | 🐛 76 | 🌐 Go | 📅 2026-03-08 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
+* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 6,973 | 🐛 72 | 🌐 Go | 📅 2026-03-08 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
 
-* [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,083 | 🐛 10 | 🌐 C# | 📅 2026-03-07 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
+* [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,084 | 🐛 10 | 🌐 C# | 📅 2026-03-08 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 
-* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,700 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-06 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
+* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,700 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-08 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 
-* [Ory Polis (formerly BoxyHQ Jackson)](https://github.com/ory/polis) ⭐ 2,212 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-07 - Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.
+* [Ory Polis (formerly BoxyHQ Jackson)](https://github.com/ory/polis) ⭐ 2,213 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-07 - Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.
 
 * [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) ⭐ 1,505 | 🐛 260 | 🌐 Java | 📅 2024-06-05 - Open Source OpenID Connect reference implementation in Java.
 
@@ -144,12 +144,12 @@
 
 ### Erlang
 
-* [oidcc](https://github.com/erlef/oidcc) ⭐ 226 | 🐛 13 | 🌐 Erlang | 📅 2026-03-02 - Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.
+* [oidcc](https://github.com/erlef/oidcc) ⭐ 226 | 🐛 14 | 🌐 Erlang | 📅 2026-03-09 - Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.
 
 ### Golang
 
-* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,352 | 🐛 43 | 🌐 Go | 📅 2026-01-13 - Go OpenID Connect client.
-* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,776 | 🐛 30 | 🌐 Go | 📅 2026-03-03 - OpenID Connect client and server library certified by the OpenID Foundation.
+* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,353 | 🐛 43 | 🌐 Go | 📅 2026-01-13 - Go OpenID Connect client.
+* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,776 | 🐛 31 | 🌐 Go | 📅 2026-03-09 - OpenID Connect client and server library certified by the OpenID Foundation.
 
 ### Java
 
@@ -165,11 +165,11 @@
 
 *Libraries layer focused on specific framework integration*
 
-* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 27,003 | 🐛 629 | 🌐 TypeScript | 📅 2026-03-08 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
+* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 27,028 | 🐛 639 | 🌐 TypeScript | 📅 2026-03-09 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,981 | 🐛 306 | 🌐 TypeScript | 📅 2025-07-01 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
 * [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,932 | 🐛 205 | 🌐 TypeScript | 📅 2026-03-05 - Zero-boilerplate authentication support for Nuxt.js 2.
 * [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,540 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-13 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
-* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,226 | 🐛 272 | 🌐 TypeScript | 📅 2026-02-28 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
+* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,226 | 🐛 271 | 🌐 TypeScript | 📅 2026-02-28 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 
 ### OCaml
 
@@ -182,7 +182,7 @@
 
 ### Python
 
-* [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) ⭐ 535 | 🐛 85 | 🌐 Python | 📅 2026-01-07 - A Django OpenID Connect relying party library maintained by Mozilla.
+* [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) ⭐ 536 | 🐛 85 | 🌐 Python | 📅 2026-01-07 - A Django OpenID Connect relying party library maintained by Mozilla.
 
 ### Ruby
 
@@ -191,7 +191,7 @@
 
 ### Rust
 
-* [openidconnect](https://github.com/ramosbugs/openidconnect-rs) ⭐ 603 | 🐛 66 | 🌐 Rust | 📅 2025-11-08 - OpenID Connect Relying party (RP) library for Rust.
+* [openidconnect](https://github.com/ramosbugs/openidconnect-rs) ⭐ 604 | 🐛 66 | 🌐 Rust | 📅 2025-11-08 - OpenID Connect Relying party (RP) library for Rust.
 
 ## Relying Parties (RP) Software Plugins
 
@@ -313,4 +313,4 @@ Where to discover learning resources about OpenID Connect.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/cerberauth/awesome-openidconnect/blob/master/CONTRIBUTING.md) ⭐ 92 | 🐛 2 | 🌐 HTML | 📅 2026-02-15 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/cerberauth/awesome-openidconnect/blob/master/CONTRIBUTING.md) ⭐ 94 | 🐛 2 | 🌐 HTML | 📅 2026-02-15 first.
