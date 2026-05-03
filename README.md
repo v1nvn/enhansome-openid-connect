@@ -36,21 +36,21 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-* [Authentik](https://github.com/goauthentik/authentik) ⭐ 21,287 | 🐛 1,026 | 🌐 Python | 📅 2026-05-02 - Open Source Identity Provider focused on flexibility and versatility.
+* [Authentik](https://github.com/goauthentik/authentik) ⭐ 21,289 | 🐛 1,022 | 🌐 Python | 📅 2026-05-03 - Open Source Identity Provider focused on flexibility and versatility.
 
 * [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,106 | 🐛 131 | 🌐 Go | 📅 2026-04-14 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 
-* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,673 | 🐛 1,006 | 🌐 Go | 📅 2026-05-01 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
+* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,682 | 🐛 1,007 | 🌐 Go | 📅 2026-05-01 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 
-* [Logto](https://github.com/logto-io/logto) ⭐ 11,964 | 🐛 203 | 🌐 TypeScript | 📅 2026-05-01 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
+* [Logto](https://github.com/logto-io/logto) ⭐ 11,967 | 🐛 206 | 🌐 TypeScript | 📅 2026-05-01 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 
 * [Dex](https://github.com/dexidp/dex) ⭐ 10,784 | 🐛 487 | 🌐 Go | 📅 2026-04-30 - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 
-* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 7,700 | 🐛 77 | 🌐 Go | 📅 2026-04-29 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
+* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 7,705 | 🐛 78 | 🌐 Go | 📅 2026-04-29 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
 
 * [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,128 | 🐛 14 | 🌐 C# | 📅 2026-05-01 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 
-* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,731 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-01 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
+* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,730 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-02 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 
 * [Ory Polis (formerly BoxyHQ Jackson)](https://github.com/ory/polis) ⭐ 2,229 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-25 - Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.
 
@@ -148,11 +148,11 @@
 
 ### Erlang
 
-* [oidcc](https://github.com/erlef/oidcc) ⭐ 227 | 🐛 13 | 🌐 Erlang | 📅 2026-04-26 - Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.
+* [oidcc](https://github.com/erlef/oidcc) ⭐ 227 | 🐛 13 | 🌐 Erlang | 📅 2026-05-03 - Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.
 
 ### Golang
 
-* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,389 | 🐛 42 | 🌐 Go | 📅 2026-04-08 - Go OpenID Connect client.
+* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,390 | 🐛 42 | 🌐 Go | 📅 2026-04-08 - Go OpenID Connect client.
 * [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,814 | 🐛 41 | 🌐 Go | 📅 2026-04-27 - OpenID Connect client and server library certified by the OpenID Foundation.
 
 ### Java
@@ -163,15 +163,15 @@
 
 ### JavaScript
 
-* [openid-client](https://github.com/panva/node-openid-client) ⭐ 2,337 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-01 - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
+* [openid-client](https://github.com/panva/node-openid-client) ⭐ 2,335 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-02 - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 * [oidc-client-ts](https://github.com/authts/oidc-client-ts) ⭐ 1,899 | 🐛 149 | 🌐 TypeScript | 📅 2026-04-14 - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
-* [oauth4webapi](https://github.com/panva/oauth4webapi) ⭐ 750 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-02 - OAuth 2/OpenID Connect library for JavaScript Runtimes.
+* [oauth4webapi](https://github.com/panva/oauth4webapi) ⭐ 749 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-02 - OAuth 2/OpenID Connect library for JavaScript Runtimes.
 
 *Libraries layer focused on specific framework integration*
 
-* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 28,080 | 🐛 712 | 🌐 TypeScript | 📅 2026-05-01 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
+* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 28,083 | 🐛 713 | 🌐 TypeScript | 📅 2026-05-03 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,981 | 🐛 308 | 🌐 TypeScript | 📅 2025-07-01 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
-* [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,929 | 🐛 205 | 🌐 TypeScript | 📅 2026-05-01 - Zero-boilerplate authentication support for Nuxt.js 2.
+* [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,928 | 🐛 205 | 🌐 TypeScript | 📅 2026-05-02 - Zero-boilerplate authentication support for Nuxt.js 2.
 * [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,544 | 🐛 84 | 🌐 TypeScript | 📅 2026-04-16 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
 * [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,232 | 🐛 262 | 🌐 TypeScript | 📅 2026-05-01 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 
