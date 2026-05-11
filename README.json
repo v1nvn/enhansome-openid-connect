@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-10T00:30:03Z",
+            "last_commit": "2026-05-11T05:30:28Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21394
+            "stars": 21410
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-09T19:29:18Z",
+            "last_commit": "2026-05-11T05:46:18Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 10800
+            "stars": 10801
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T05:16:46Z",
+            "last_commit": "2026-05-11T05:47:31Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12001
+            "stars": 12002
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-04-14T07:13:13Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17122
+            "stars": 17126
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-05-06T14:06:30Z",
             "owner": "ory",
             "repo": "polis",
-            "stars": 2230
+            "stars": 2231
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-05-09T05:09:21Z",
             "owner": "panva",
             "repo": "node-oidc-provider",
-            "stars": 3733
+            "stars": 3734
           }
         },
         {
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-08T04:01:52Z",
+            "last_commit": "2026-05-10T23:16:15Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 7763
+            "stars": 7776
           }
         },
         {
@@ -257,10 +257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-09T13:43:20Z",
+            "last_commit": "2026-05-11T00:42:10Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13724
+            "stars": 13730
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-04-08T03:21:32Z",
             "owner": "coreos",
             "repo": "go-oidc",
-            "stars": 2398
+            "stars": 2400
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-05T07:16:48Z",
+            "last_commit": "2026-05-11T04:15:03Z",
             "owner": "zitadel",
             "repo": "oidc",
             "stars": 1815
@@ -424,7 +424,7 @@
             "last_commit": "2026-05-05T16:37:24Z",
             "owner": "panva",
             "repo": "oauth4webapi",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2026-05-09T00:29:20Z",
             "owner": "authts",
             "repo": "oidc-client-ts",
-            "stars": 1904
+            "stars": 1905
           }
         }
       ],
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:40:12.647Z",
+    "last_updated": "2026-05-11T06:02:20.530Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
