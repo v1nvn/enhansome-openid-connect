@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-17T03:38:57Z",
+            "last_commit": "2026-05-18T05:22:39Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21493
+            "stars": 21504
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T04:05:26Z",
+            "last_commit": "2026-05-18T04:36:43Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 10814
+            "stars": 10816
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-17T04:30:33Z",
+            "last_commit": "2026-05-18T04:10:54Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12038
+            "stars": 12045
           }
         },
         {
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T21:25:41Z",
+            "last_commit": "2026-05-18T00:58:36Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 7831
+            "stars": 7838
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-05-15T11:49:03Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13783
+            "stars": 13791
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-05-04T10:44:16Z",
             "owner": "panva",
             "repo": "openid-client",
-            "stars": 2337
+            "stars": 2339
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:51:57.686Z",
+    "last_updated": "2026-05-18T06:17:58.709Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
