@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-25T22:47:08Z",
+            "last_commit": "2026-05-27T05:59:50Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21649
+            "stars": 21664
           }
         },
         {
@@ -68,7 +68,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-25T04:31:44Z",
+            "last_commit": "2026-05-27T05:31:49Z",
             "owner": "dexidp",
             "repo": "dex",
             "stars": 10835
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T06:06:59Z",
+            "last_commit": "2026-05-27T06:23:18Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12085
+            "stars": 12088
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-05-20T20:11:05Z",
             "owner": "openiddict",
             "repo": "openiddict-core",
-            "stars": 5146
+            "stars": 5148
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-05-25T06:11:57Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17165
+            "stars": 17168
           }
         },
         {
@@ -188,7 +188,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-24T11:35:29Z",
+            "last_commit": "2026-05-26T22:47:29Z",
             "owner": "ory",
             "repo": "polis",
             "stars": 2235
@@ -204,7 +204,7 @@
             "last_commit": "2026-05-23T07:22:22Z",
             "owner": "panva",
             "repo": "node-oidc-provider",
-            "stars": 3741
+            "stars": 3742
           }
         },
         {
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-25T14:30:49Z",
+            "last_commit": "2026-05-26T11:47:26Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 7912
+            "stars": 7923
           }
         },
         {
@@ -257,10 +257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-25T09:23:06Z",
+            "last_commit": "2026-05-27T04:23:04Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13869
+            "stars": 13880
           }
         },
         {
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-26T05:44:00Z",
+            "last_commit": "2026-05-26T18:44:51Z",
             "owner": "OpenIDC",
             "repo": "mod_auth_openidc",
             "stars": 1088
@@ -411,7 +411,7 @@
             "last_commit": "2026-05-23T07:34:37Z",
             "owner": "panva",
             "repo": "openid-client",
-            "stars": 2344
+            "stars": 2345
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2026-05-23T13:36:05Z",
             "owner": "authts",
             "repo": "oidc-client-ts",
-            "stars": 1912
+            "stars": 1913
           }
         }
       ],
@@ -469,7 +469,7 @@
             "last_commit": "2026-03-16T18:15:55Z",
             "owner": "omniauth",
             "repo": "omniauth_openid_connect",
-            "stars": 195
+            "stars": 196
           }
         }
       ],
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:10:31.864Z",
+    "last_updated": "2026-05-27T06:24:43.097Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
