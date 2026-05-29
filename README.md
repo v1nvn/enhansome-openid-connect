@@ -36,23 +36,23 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-* [Authentik](https://github.com/goauthentik/authentik) ⭐ 21,683 | 🐛 1,127 | 🌐 Python | 📅 2026-05-28 - Open Source Identity Provider focused on flexibility and versatility.
+* [Authentik](https://github.com/goauthentik/authentik) ⭐ 21,698 | 🐛 1,135 | 🌐 Python | 📅 2026-05-29 - Open Source Identity Provider focused on flexibility and versatility.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,170 | 🐛 133 | 🌐 Go | 📅 2026-05-25 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,178 | 🐛 133 | 🌐 Go | 📅 2026-05-28 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 
-* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,889 | 🐛 1,044 | 🌐 Go | 📅 2026-05-27 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
+* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 13,901 | 🐛 1,042 | 🌐 Go | 📅 2026-05-28 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 
-* [Logto](https://github.com/logto-io/logto) ⭐ 12,093 | 🐛 189 | 🌐 TypeScript | 📅 2026-05-28 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
+* [Logto](https://github.com/logto-io/logto) ⭐ 12,095 | 🐛 192 | 🌐 TypeScript | 📅 2026-05-29 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 
-* [Dex](https://github.com/dexidp/dex) ⭐ 10,839 | 🐛 499 | 🌐 Go | 📅 2026-05-28 - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
+* [Dex](https://github.com/dexidp/dex) ⭐ 10,840 | 🐛 499 | 🌐 Go | 📅 2026-05-28 - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 
-* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 7,935 | 🐛 82 | 🌐 Go | 📅 2026-05-26 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
+* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 7,944 | 🐛 83 | 🌐 Go | 📅 2026-05-26 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
 
 * [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,148 | 🐛 13 | 🌐 C# | 📅 2026-05-20 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 
-* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,742 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-23 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
+* [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,741 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-29 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 
-* [Ory Polis (formerly BoxyHQ Jackson)](https://github.com/ory/polis) ⭐ 2,235 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-26 - Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.
+* [Ory Polis (formerly BoxyHQ Jackson)](https://github.com/ory/polis) ⭐ 2,234 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-26 - Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.
 
 * [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) ⭐ 1,504 | 🐛 259 | 🌐 Java | 📅 2024-06-05 - Open Source OpenID Connect reference implementation in Java.
 
@@ -153,7 +153,7 @@
 ### Golang
 
 * [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,410 | 🐛 43 | 🌐 Go | 📅 2026-04-08 - Go OpenID Connect client.
-* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,821 | 🐛 45 | 🌐 Go | 📅 2026-05-28 - OpenID Connect client and server library certified by the OpenID Foundation.
+* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,821 | 🐛 43 | 🌐 Go | 📅 2026-05-28 - OpenID Connect client and server library certified by the OpenID Foundation.
 
 ### Java
 
@@ -164,16 +164,16 @@
 ### JavaScript
 
 * [openid-client](https://github.com/panva/node-openid-client) ⭐ 2,345 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-28 - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
-* [oidc-client-ts](https://github.com/authts/oidc-client-ts) ⭐ 1,913 | 🐛 155 | 🌐 TypeScript | 📅 2026-05-23 - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
-* [oauth4webapi](https://github.com/panva/oauth4webapi) ⭐ 756 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-28 - OAuth 2/OpenID Connect library for JavaScript Runtimes.
+* [oidc-client-ts](https://github.com/authts/oidc-client-ts) ⭐ 1,914 | 🐛 155 | 🌐 TypeScript | 📅 2026-05-23 - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
+* [oauth4webapi](https://github.com/panva/oauth4webapi) ⭐ 757 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-28 - OAuth 2/OpenID Connect library for JavaScript Runtimes.
 
 *Libraries layer focused on specific framework integration*
 
-* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 28,480 | 🐛 639 | 🌐 TypeScript | 📅 2026-05-28 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
+* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 28,490 | 🐛 641 | 🌐 TypeScript | 📅 2026-05-29 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,980 | 🐛 310 | 🌐 TypeScript | 📅 2025-07-01 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
-* [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,929 | 🐛 205 | 🌐 TypeScript | 📅 2026-05-25 - Zero-boilerplate authentication support for Nuxt.js 2.
-* [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,546 | 🐛 87 | 🌐 TypeScript | 📅 2026-04-16 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
-* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,232 | 🐛 267 | 🌐 TypeScript | 📅 2026-05-27 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
+* [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,929 | 🐛 205 | 🌐 TypeScript | 📅 2026-05-28 - Zero-boilerplate authentication support for Nuxt.js 2.
+* [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,547 | 🐛 87 | 🌐 TypeScript | 📅 2026-04-16 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
+* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,232 | 🐛 263 | 🌐 TypeScript | 📅 2026-05-28 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 
 ### OCaml
 
@@ -306,7 +306,7 @@ Where to discover learning resources about OpenID Connect.
 ### Playgrounds
 
 * [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
-* [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) ⭐ 918 | 🐛 3 | 🌐 Go | 📅 2026-05-11 - OAuth 2.0 and OpenID Connect command line client for testing and exploring different flows.
+* [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) ⭐ 919 | 🐛 3 | 🌐 Go | 📅 2026-05-11 - OAuth 2.0 and OpenID Connect command line client for testing and exploring different flows.
 * [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
 * [MojoAuth: Passkey Playground](https://mojoauth.com/oidc-playground/) - Build and visualize OpenID Connect requests with this interactive tool. Configure parameters, generate request URLs, and decode JWT tokens.
 
