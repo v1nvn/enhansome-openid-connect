@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T00:40:23Z",
+            "last_commit": "2026-06-06T23:16:14Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21838
+            "stars": 21850
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-06-05T09:12:02Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 10863
+            "stars": 10867
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-06-05T11:25:43Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12125
+            "stars": 12132
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-06-05T13:23:35Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17198
+            "stars": 17203
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-06-02T14:55:16Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8042
+            "stars": 8054
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-06-05T12:48:37Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13954
+            "stars": 13966
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2026-05-28T07:57:56Z",
             "owner": "zitadel",
             "repo": "oidc",
-            "stars": 1826
+            "stars": 1827
           }
         }
       ],
@@ -429,7 +429,7 @@
             "last_commit": "2026-06-03T14:10:51Z",
             "owner": "panva",
             "repo": "oauth4webapi",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-05-18T15:18:21Z",
             "owner": "thephpleague",
             "repo": "oauth2-client",
-            "stars": 3809
+            "stars": 3808
           }
         },
         {
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:56:54.346Z",
+    "last_updated": "2026-06-07T06:29:14.300Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
