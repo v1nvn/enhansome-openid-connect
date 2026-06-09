@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-08T04:13:54Z",
+            "last_commit": "2026-06-09T05:38:13Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21860
+            "stars": 21870
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-06-08T04:02:51Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 10869
+            "stars": 10871
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-08T06:46:14Z",
+            "last_commit": "2026-06-09T06:07:47Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12136
+            "stars": 12138
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-05T13:23:35Z",
+            "last_commit": "2026-06-08T17:37:02Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17208
+            "stars": 17207
           }
         },
         {
@@ -188,7 +188,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-05T15:26:53Z",
+            "last_commit": "2026-06-08T13:23:10Z",
             "owner": "ory",
             "repo": "polis",
             "stars": 2237
@@ -201,7 +201,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-03T06:16:30Z",
+            "last_commit": "2026-06-08T18:30:30Z",
             "owner": "panva",
             "repo": "node-oidc-provider",
             "stars": 3746
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-08T01:06:48Z",
+            "last_commit": "2026-06-08T07:22:53Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8055
+            "stars": 8069
           }
         },
         {
@@ -257,10 +257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-08T05:55:09Z",
+            "last_commit": "2026-06-09T04:47:45Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13978
+            "stars": 13982
           }
         },
         {
@@ -394,10 +394,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-28T07:57:56Z",
+            "last_commit": "2026-06-09T04:05:50Z",
             "owner": "zitadel",
             "repo": "oidc",
-            "stars": 1827
+            "stars": 1828
           }
         }
       ],
@@ -416,7 +416,7 @@
             "last_commit": "2026-06-03T07:57:04Z",
             "owner": "panva",
             "repo": "openid-client",
-            "stars": 2348
+            "stars": 2349
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2026-06-01T23:41:37Z",
             "owner": "authts",
             "repo": "oidc-client-ts",
-            "stars": 1916
+            "stars": 1918
           }
         }
       ],
@@ -474,7 +474,7 @@
             "last_commit": "2026-06-08T02:53:14Z",
             "owner": "thephpleague",
             "repo": "oauth2-client",
-            "stars": 3808
+            "stars": 3809
           }
         },
         {
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:48:27.382Z",
+    "last_updated": "2026-06-09T06:12:54.299Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
