@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-10T04:59:00Z",
+            "last_commit": "2026-06-11T06:03:12Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 21886
+            "stars": 21916
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-10T06:27:10Z",
+            "last_commit": "2026-06-11T04:03:03Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 10872
+            "stars": 10878
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-10T06:22:48Z",
+            "last_commit": "2026-06-11T06:23:51Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 12142
+            "stars": 12144
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-02T16:51:46Z",
             "owner": "openiddict",
             "repo": "openiddict-core",
-            "stars": 5159
+            "stars": 5161
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-09T16:35:55Z",
+            "last_commit": "2026-06-10T10:33:31Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17209
+            "stars": 17213
           }
         },
         {
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-09T21:23:10Z",
+            "last_commit": "2026-06-11T04:23:08Z",
             "owner": "ory",
             "repo": "polis",
-            "stars": 2237
+            "stars": 2239
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-06-09T12:53:21Z",
             "owner": "panva",
             "repo": "node-oidc-provider",
-            "stars": 3746
+            "stars": 3748
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-06-09T23:46:02Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8074
+            "stars": 8082
           }
         },
         {
@@ -257,10 +257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-10T06:13:30Z",
+            "last_commit": "2026-06-10T14:33:16Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 13989
+            "stars": 13998
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2026-06-09T04:05:50Z",
             "owner": "zitadel",
             "repo": "oidc",
-            "stars": 1828
+            "stars": 1829
           }
         }
       ],
@@ -416,7 +416,7 @@
             "last_commit": "2026-06-03T07:57:04Z",
             "owner": "panva",
             "repo": "openid-client",
-            "stars": 2351
+            "stars": 2352
           }
         },
         {
@@ -439,10 +439,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-01T23:41:37Z",
+            "last_commit": "2026-06-10T17:38:26Z",
             "owner": "authts",
             "repo": "oidc-client-ts",
-            "stars": 1918
+            "stars": 1919
           }
         }
       ],
@@ -458,10 +458,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-06-04T09:05:02Z",
+            "last_commit": "2026-06-10T13:05:43Z",
             "owner": "laravel",
             "repo": "socialite",
-            "stars": 5749
+            "stars": 5748
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-06-03T06:56:18Z",
             "owner": "nov",
             "repo": "openid_connect",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:27:30.266Z",
+    "last_updated": "2026-06-11T06:52:54.893Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "source_repository": "v1nvn/enhansome-openid-connect",
     "source_repository_description": null,
